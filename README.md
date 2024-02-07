@@ -4,7 +4,7 @@ Courtesy of Mr. Web Wolf's "30 Days Coding Challenge - HTML & CSS" YouTube playl
 
 For my self-learning (more like reviewing honestly) HTML and CSS concepts. Won't actually spend 30 days...will speedrun as fast as possible.
 
-- Challenge 1: Responsive CSS Cards
+- Challenge 1: Responsive CSS Cards => Finished
 - Challenge 2: CSS Card Hover Effects
 - Challenge 3: CSS Button Hover Effect - Animated Button Border
 - Challenge 4: CSS Image Hover Effects - Show Button on Image Hover
